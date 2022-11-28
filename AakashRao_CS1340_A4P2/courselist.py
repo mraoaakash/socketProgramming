@@ -1,0 +1,16 @@
+prerequisite_list = {
+    'CS1101': "No Specific Prerequisites",
+    'CS1104': "No Specific Prerequisites",
+    'CS1205': "CS1101, CS1104",
+    'CS1216': "CS1101, CS1104",
+    'CS1217': "CS1101, CS1104 ",
+    'CS1203': "CS1101, CS1104",
+    'CS1390': "CS1205, CS1216, CS1217, CS1203",
+    'CS1340': "CS1205, CS1216, CS1217, CS1203",
+    'CS1319': "CS1205, CS1216, CS1217, CS1203",
+}
+
+cs_course_offerings = {
+    'monsoon': ["Use of Approximate Computing in Federated Learning [CSIS5005]","Symbolic Logic [PHI-1060/ CS2160]","Statistics for Economics [ECO-1400/ CS1207]","Reading, reviewing, and presenting scientific papers [CSIS4020]","Rapid Prototyping and Experimentation [CSIS4026]","Quantum Complexity Theory [CSIS4022]","Programming Language Design and Implementation [CS1319]","Programming Language Design and Implementation [CS1319]","Probability and Statistics [MAT-2020/ CS1209/ PHY-1208]","Multimodal Analysis for Content Classification [CSIS4021]","Machine Learning for Finance [CS2466]","Linear Algebra [MAT-1001/ CS2210/ PHY-1001]","Introduction to Machine Learning [CS1390/ PHY-1390]","Introduction to Computer Programming [CS1101/ PHY-1101]","Information and Coding Theory [CS2462]","Fairness of AI [CS2464]","Embedded systems firmware security [CSIS4024]","Distributed Network Algorithms [CS2450]","Database Management Systems [CS2375]","Data Structures [CS1203]","Computing in the Cloud [CS2465]","Computer Vision [CS2467]","Computer Organization and Systems [CS1216]","Computer Networks [CS1340]","Computational/Mathematical Biology [BIO-3513/ BIO-4313/ BIO-6513/ PHY-3513/ PHY-6313/ CS2456]","Computational Systems Medicine at Single Cell Resolution [CS3032]","Building a Mental Wellbeing App [CSIS4023]","Biostatistics and Bioinformatics [BIO-3005/ BIO-6009/ CS2455]","An overview of usable privacy and security [CS2463]","Advanced Topics in Cryptography [CSIS4025]","Advanced Algorithms [CS2446]"],
+    'spring': ["Advanced Algorithmic Economics [CSIS4013]","Advanced Machine Learning [CS2490]","Advanced Topics in Probability [CS2470/ MAT-4050]","Algorithm Design and Analysis [CS1205]","Blockchain and Cryptocurrencies [CS2361]","Capstone Thesis [CS4999]","Computer Security and Privacy [CS2362]","Data Analytics for Air Quality Assessment [CSIS3024]","Data Mining and Warehousing [CS2376/ PSY-2376]","Data Science: Sports [CSIS3023]","Discrete Mathematics [CS1104],Fuzzy Cartographies [ENG-3340/ CS2209]","Hardware-based Memory Encryption: Primitives, Modules and Intel SGX [CSIS3025]","Human-AI Assisted Sports Coaching: Computer Vision and Transfer Learning [CSIS3030]","Human-Computer Interaction [CSIS2006]","Introduction to Computer Programming [CS1101/ PHY-1101]","Itemset Placement in Retail [CSIS4015]","Linear Algebra [MAT-1001/ CS2210/ PHY-1001]","Machine Learning for Healthcare [CSIS4017]","Mathematical Foundations of Data Sciences [MAT-4020/ CS2380]","MLOps [CSIS4014]","Operating Systems [CS1217]","Quantitative Portfolio Construction [CSIS3028]","The Internet and CSAM [CSIS3029]","The New Geography of the Information Age [CS2378/ POL-2070]","Theory of Computation [CS2349]","Topics in Quantum Computation and Quantum Information [CSIS4016]","Web Exploitation [CSIS3026"], 
+}
